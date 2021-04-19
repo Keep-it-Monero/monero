@@ -18,10 +18,10 @@ i.e. `monero-blockchain-stats > stats.csv`
 to specify location of blockchain storage
 
 `--testnet` 
-Run on testnet. The wallet must be launched with --testnet flag.
+Run on testnet.
 
 `--stagenet`
-Run on stagenet. The wallet must be launched with --stagenet flag.
+Run on stagenet.
 
 `--log-level arg`
 0-4 or categories
